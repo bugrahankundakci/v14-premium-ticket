@@ -1,0 +1,23 @@
+{
+    "botSettings": {
+        "token": "bot tokeniniz.",
+        "ServerID": "sunucunuzun id'si",
+        "clientID": "bot client id / botun id'si",
+        "durum": "dnd",
+        "oynuyor": "minik bot yapmayı öğretiyor xD",
+        "musterirol": "sunucunuzdaki müşterilere / whitelist'lere verdiğiniz rol id'si (BURASI ÖNEMLİ YOKSA BOT ÇALIŞMAZ / AÇILMAZ)",
+        "serverlink": "https://discord.com/invite/URL-LINK"
+    },
+    "ticket": {
+        "kategori": "ticketler hangi kategoride açılacak?",
+        "yetkili": "ticketlerle ilgilenecek olan yetkili rol id'si",
+        "transcriptsChannelId": "ticket log odasının kanal id'si",
+        "dmticketkanalid": "",
+        "menuayarlari": {
+            "photograph": "https://avatars.githubusercontent.com/u/138879599?v=4",
+            "mesaj": "**Bilet oluştur** butonuna tıkladıktan sonra kişisel destek kanalınız oluşturulacaktır. Kanalın içeriğinden sonra isteğinizi/sorunuzu veya sorununuzu belirterek en kısa sürede destek alabilirsiniz.",
+            "birseceneklabel": "Ticket olustur",
+            "birsecenekemoji": "🎫"
+        }
+    }
+}
