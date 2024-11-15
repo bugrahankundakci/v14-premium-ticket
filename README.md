@@ -8,8 +8,8 @@
   - Kendi mesajlarınızı ve seçeneklerinizi ayarlayabilirsiniz.
 - **Gelişmiş Log!** 📜
   - Ticket açma ve kapatma işlemlerini kaydeder.
-- **Modal Sistemi!** 📝
-  - Kullanıcılarla etkileşimi kolaylaştıran modern bir arayüz.
+- **Dm ticket sistemi!** 📝
+  - Kullanıcılarla etkileşimi kolaylaştıran chat arayüzü.
 
 ## 🔧 Kurulum
 
